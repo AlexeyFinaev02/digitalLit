@@ -1,0 +1,11 @@
+example*
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.gitconfig
+.landscape/
+.lesshst
+.motd_shown
+.profile
+.sudo_as_admin_successful
